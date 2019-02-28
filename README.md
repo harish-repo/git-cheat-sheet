@@ -20,7 +20,10 @@ Sets the email  to the commit transactions
 ```sh
 $ git config --global user.email [email-address]
 ```
-
+check config entries
+```sh
+$ git config --golbal --list
+```
 
 ### CREATE REPOSITORIES
 
